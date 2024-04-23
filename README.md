@@ -41,8 +41,11 @@ Learning Objective: understand why we program multithreaded codes and do it hand
 3. OpenMP Programming
    c) parallel for b) SIMD c) task
 OpenMP Tasking
+
 Code: https://github.com/OpenMP/Examples
+
 https://www.openmp.org/resources/refguides/
+
 https://www.openmp.org/wp-content/uploads/openmp-examples-5.2.2-final.pdf
 
 
