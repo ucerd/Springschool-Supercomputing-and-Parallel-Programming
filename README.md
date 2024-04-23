@@ -1,20 +1,19 @@
 # springschool24
 Supercomputing and Parallel Programming Spring School
 
-The Role and Importance of Supercomputing Centers in Third-Generation Entrepreneurial Institutes
-Understanding Supercomputing and HPC Architectures:
+The Role and Importance of Supercomputing Centers in Third-Generation Entrepreneurial Institutes Understanding Supercomputing and HPC Architectures:
 Learning Objective: understand software stack and hardware configuration of HPC cluster 
-    1. HPC Server (GP-GPU based System)
-    2. HPC Cluster (Computer Nodes, Parallel Programming Models and Libraries, Network Configuration, File System)
-    3. Supercomputing System Software Stack and Parallel Programming Libraries
-    4. Open Hardware and Software-Based Supercomputing Infrastructure
+1. HPC Server (GP-GPU based System)
+2. HPC Cluster (Computer Nodes, Parallel Programming Models and Libraries, Network Configuration, File System)
+3. Supercomputing System Software Stack and Parallel Programming Libraries
+4. Open Hardware and Software-Based Supercomputing Infrastructure
 
 
-C Programming for HPC Applications
+**C Programming for HPC Applications**
 Learning Objective: understanding complicated codebases
-    1. Memory Addressing in Parallel Architectures
-    2. Dynamic Function Dispatching in Parallel Programming
-    3. Tracing impactful projects like Linux Kernel or OpenMPI
+1. Memory Addressing in Parallel Architectures
+2. Dynamic Function Dispatching in Parallel Programming
+3. Tracing impactful projects like Linux Kernel or OpenMPI
 
 
 Hands-on Accessing a Supercomputer
