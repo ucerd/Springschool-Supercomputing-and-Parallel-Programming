@@ -99,4 +99,7 @@ Learning Objective: understand why we program offload codes and do it hands-on
 4. Multi-Node based Execution
 
 
+**Videos Lectures @**
+
+https://www.youtube.com/playlist?list=PLxtSKP68m3fo2qQmkNvRu4KPLbRb-UHla
 
