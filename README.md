@@ -1,5 +1,5 @@
 # springschool24
-www.Pakistansupercomputing.com
+[https://www.pakistansupercomputing.com/school.php]
 
 Supercomputing and Parallel Programming Spring School
 
